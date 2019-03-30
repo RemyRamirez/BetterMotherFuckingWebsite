@@ -16,3 +16,12 @@ Pour accéder au site internet via le repository voici le lien: https://remyrami
 
 Bien entendu faire cela seul a été un peu une PLS pour moi car très difficile de se débugguer seul quand on commence !
 Mais bon on fait avec et l'huile de coude va faire de ce site une patatas bravas !
+
+
+Exercices:
+
+1) ok
+2) 
+3) Cela fait un commentaire avec "#"
+4) Il y a une erreur car il manque un " 
+5) voir le fichier
