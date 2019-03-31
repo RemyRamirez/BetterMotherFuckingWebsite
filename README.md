@@ -25,3 +25,20 @@ Exercices:
 3) Cela fait un commentaire avec "#"
 4) Il y a une erreur car il manque un " 
 5) voir le fichier
+6) même chose que l'exo 5 ?
+7) gets.chomp permet de faire un saisie
+La différence entre les 3 programmes est simplement de la mise en forme pour guider l'utilisateur dans la saisie de son user name. 
+Le 2ème programme semble le plus approprié
+8) Voir fichier
+9) Voir fichier
+10) J'arrive pas avec les nombres
+11) J'arrive pas avec les nombres
+12) Voir fichier
+13) Voir fichier
+14) Voir fichier
+15) Voir fichier
+16)
+17)
+18)
+19)
+20)
