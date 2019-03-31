@@ -31,14 +31,15 @@ La différence entre les 3 programmes est simplement de la mise en forme pour gu
 Le 2ème programme semble le plus approprié
 8) Voir fichier
 9) Voir fichier
-10) J'arrive pas avec les nombres
-11) J'arrive pas avec les nombres
+10) Voir fichier
+11) Voir fichier
 12) Voir fichier
 13) Voir fichier
 14) Voir fichier
 15) Voir fichier
-16)
-17)
-18)
-19)
-20)
+16) Voir fichier
+17) Voir fichier
+18) Voir fichier
+19) Voir fichier
+20)Bouyat
+Pyramide : Bouyat
