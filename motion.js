@@ -1,6 +1,15 @@
 
+//1ère commande
+setTimeout(function() {alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please')}, '');
+
+if (confirm("veux-tu aller sur le site xxxvidsxxx")) {
+    
+        document.location.href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"; 
+};
 
 // Test Openclassroom
+
+/*
 
 // On crée un objet basique.
 
@@ -42,7 +51,7 @@ while (true) {
     }
 }
 alert(nicks); // Affiche les prénoms à la suite
-*/
+
 
 var nicks = [], // Création du tableau vide
     nick;
@@ -66,13 +75,11 @@ var family = {
 
 alert(family['Un']);
 
-/*
+
 for (var id in family) { // On stocke l'identifiant dans « id » pour parcourir l'objet « family »
 
 alert(family[id]);
-*/
-//1ère commande
-alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+
 
 /*
 // 2ème commande
